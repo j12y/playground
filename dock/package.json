@@ -1,0 +1,10 @@
+{
+  "name": "hello-nodejs-app",
+  "dependencies": {
+    "express": "^4.12.3",
+    "gulp": "^3.9.0"
+  },
+  "scripts": {
+    "start": "node server.js"
+  }
+}
